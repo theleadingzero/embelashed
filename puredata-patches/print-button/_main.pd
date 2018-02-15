@@ -1,4 +1,4 @@
-#N canvas 137 94 644 573 10;
+#N canvas 137 94 642 521 10;
 #X obj 51 290 print;
 #X text 30 397 ............................;
 #X text 30 407 . ____ ._____ _ .......___ .;
@@ -18,7 +18,8 @@
 #X text 374 33 Digital 0;
 #X text 373 14 PRINT SENSOR BUTTON EXAMPLE;
 #X msg 50 95 in 11;
-#X text 116 72 say which pins we are using;
+#X text 128 73 say which pins we are using;
+#X text 120 260 Only pass on values that are not repeats;
 #X connect 8 0 15 0;
 #X connect 9 0 18 0;
 #X connect 15 0 0 0;
