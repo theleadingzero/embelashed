@@ -10,7 +10,7 @@ You will need:
 - A 10k ohm resistor(aka 10kΩ)  
 - Soldering enquipment
 
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Reed%20Switch/Reed%20Switch.png" width="500" />
+<img src="./Reed%20Switch.png" width="500" />
 
 *Start by sticking the copper tape onto the paper. Before soldering arrange your componants to make sure that it all fits together. You can use a small bit of masking tape to hold the componants down while you solder.* 
 
@@ -19,14 +19,14 @@ You will need:
 ## **What kind of interactions or movement can you sense?**
 ### 1. Environment  
 The sensor can sense the magnetic field around it.          
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Reed%20Switch/REED-SWITCH.gif" width="300" />
+<img src="./REED-SWITCH.gif" width="300" />
 
 ### 2. Movement  
 Banding arms; walking…and more      
 
 ### 3. Distance    
 By placing magnet to body/object, it can sense the distance to the body/object.  
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Reed%20Switch/reedswitch2.gif" width="300" />
+<img src="./reedswitch2.gif" width="300" />
 
 
 > **Handy hints!**  

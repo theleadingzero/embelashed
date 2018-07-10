@@ -10,7 +10,7 @@ You will need:
 - 1 mega ohm resistor (aka 1mΩ)  
 - soldering equipment
 
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Piezo/Piezo_small.png" width="600" />
+<img src="./Piezo_small.png" width="600" />
 
  
 > **Handy hint!**  
@@ -20,15 +20,22 @@ You will need:
 *Start by sticking the copper tape onto the paper. Before soldering arrange your componants to make sure that it all fits together. You can use a small bit of masking tape to hold the componants down while you solder.* 
 
 
+
+
+> **Handy hint!**  
+>Make folds in the copper tape to keep a continuous connection.
+
+<img src="./folding%20new.png" width="400" />
+
 ## **What kind of interactions or movement can you sense?**
 **1. Environment**  
 Piezos can sense when they are hit against objects.  
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Piezo/hit.gif" width="300" />
+<img src="./hit.gif" width="300" />
 
 
 **2. Movement**  
 Knocking, shaking, flipping, tapping…and more!  
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Piezo/knock.gif" width="300" />
+<img src="./knock.gif" width="300" />
 
 > **Handy hint!**  
 >If you feel the piezo is too sensitive to realise your intended interaction, replace the 1M ohm resistor with a lower resistor value such as 100K ohm resistor, the less resistance used in the circuit, the less sensitive your piezo will be.

@@ -16,7 +16,7 @@ You will need:
 - Soldering equipment
 - Brush
 
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Conductive%20paint/conductive_ink1.png" width="800" />
+<img src="./conductive_ink1.png" width="800" />
 *Before soldering arrange your componants to make sure that it all fits together. You can use a small bit of masking tape to hold the componants down while you solder.* 
 
 **Suggested sequence for making**
@@ -31,12 +31,12 @@ You will need:
 > **Handy hint!**  
 >Make folds in the copper tape to keep a continuous connection.
 
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Conductive%20paint/folding%20new.png" width="400" />
+<img src="./folding%20new.png" width="400" />
 
 ## **What kind of interactions or movement can you sense?**
 
 Slipping, Spinning the objects...and more  
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Conductive%20paint/ink.gif" width="300" />
+<img src="./ink.gif" width="300" />
 
 > **Handy hint!**  
 > For the consistency of the input signal, avoid folding or squeezing the conductive ink paper.

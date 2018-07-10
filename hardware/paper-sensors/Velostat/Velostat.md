@@ -13,11 +13,11 @@ You'll need:
 - 1k ohm resistor
 - Soldering equipment
 
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Velostat/velo1_small2.png" width="600" /> 
+<img src="./velo1_small2.png" width="600" /> 
 
 _For this sensor there are three parts -the top, bottom, and the velostat "sandwich". Start by sticking the copper tape onto the paper. Before soldering arrange your components to make sure that it all fits together. You can use a small bit of masking tape to hold the components down while you solder._
 
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Velostat/velo2_small.png" width="600" />    
+<img src="./velo2_small.png" width="600" />    
 
 _When you have your top and bottom ready, use the velostat as a sandwich and tape it using masking tape._  
 
@@ -28,11 +28,11 @@ _When you have your top and bottom ready, use the velostat as a sandwich and tap
 ## **What kind of interactions or movement can you sense?**
 ### 1. Movement  
 You can sense pressing or pushing.  
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Velostat/pressure.gif" width="300" />
+<img src="./pressure.gif" width="300" />
 
 ### 2. Cooperation
 It is a pressure sensor so can sense contact between people.  
-<img src="https://github.research.its.qmul.ac.uk/eex109/bela_crafts/blob/master/Velostat/TOUCH.gif" width="300" />
+<img src="./TOUCH.gif" width="300" />
 
 ### 3. Environment  
 You could sense leaning or bumping against objects, sitting on a chair or all kinds of things!
