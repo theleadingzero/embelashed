@@ -35,7 +35,7 @@ The brightness changes of the environment around the sensor.
 >When embedding inside paper, use white and thin paper that allows light to go through. This would work well with the LDR, as Bela is able to get a larger range of values when the light changes.
 
 ### 2. Movement
-It can sense all kinds of movements such as hip twisting, handshaking, arm waving and more!
+It can sense all kinds of movements such as hip twisting, handshaking, arm waving and more!!
 
 <img src="./imgs/LDR_shaking.gif" width="300" height="192"/>
 
