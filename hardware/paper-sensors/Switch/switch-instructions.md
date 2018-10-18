@@ -1,6 +1,6 @@
 # **Switch**
 ## **What does the sensor do?**
-It is a switch!
+It is a switch! It is either pressed or not pressed.
 
 ## **How do you embed the sensor onto paper?**
 You'll need:
