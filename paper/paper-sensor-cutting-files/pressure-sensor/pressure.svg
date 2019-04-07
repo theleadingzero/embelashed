@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 359.59374 542.61085"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pressure.svg"
+   width="101.48534mm"
+   height="153.13684mm">
+  <metadata
+     id="metadata539">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>sensors_V7</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1107"
+     inkscape:window-height="689"
+     id="namedview537"
+     showgrid="false"
+     inkscape:zoom="0.51"
+     inkscape:cx="333.41938"
+     inkscape:cy="409.56267"
+     inkscape:window-x="136"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     units="mm"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     fit-margin-left="1" />
+  <defs
+     id="defs4">
+    <style
+       id="style6">.cls-1,.cls-3,.cls-4,.cls-5{fill:none;stroke-linecap:round;stroke-linejoin:round;}.cls-1{stroke:red;}.cls-2{font-size:8.5px;fill:blue;font-family:Helvetica, Helvetica;}.cls-3{stroke:blue;}.cls-4,.cls-5{stroke:#000;}.cls-4{stroke-width:0.07px;}</style>
+  </defs>
+  <title
+     id="title8">sensors_V7</title>
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round"
+     id="rect83"
+     height="42.080002"
+     width="28.450001"
+     y="168.77046"
+     x="63.300438"
+     class="cls-1" />
+  <polyline
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline85"
+     points="660.09 1125.25 660.09 1082.73 671.43 1082.73 671.43 1125.25 756.47 1125.24 841.51 1125.24 841.51 983.51 798.99 983.51 798.99 590.74 713.94 590.74 713.95 983.51 671.43 983.51 671.43 1026.03 660.09 1026.03 660.1 983.51 617.58 983.51 617.59 590.74 532.53 590.74 532.53 983.51 490.01 983.51 490.01 1125.24 575.05 1125.24 660.09 1125.25 490.01 1125.25"
+     class="cls-1"
+     transform="translate(-485.95957,-586.68956)" />
+  <text
+     style="font-size:8.5px;font-family:Helvetica, Helvetica;fill:#0000ff"
+     id="text188"
+     class="cls-2"
+     x="271.44046"
+     y="36.990429">VELO</text>
+  <polyline
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline366"
+     points="608.23 590.74 608.23 997.77 599.72 997.77 599.72 590.74"
+     class="cls-3"
+     transform="translate(-485.95957,-586.68956)" />
+  <polyline
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline368"
+     points="753.82 590.74 753.82 700.11 753.82 767.23"
+     class="cls-3"
+     transform="translate(-485.95957,-586.68956)" />
+  <polyline
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline370"
+     points="753.82 769.34 753.82 785.15 745.4 785.09 745.4 700.05 745.25 590.74"
+     class="cls-3"
+     transform="translate(-485.95957,-586.68956)" />
+  <polyline
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline372"
+     points="782.27 769.34 782.27 983.51 782.27 997.69 790.77 997.69 790.81 983.51 790.81 590.74"
+     class="cls-3"
+     transform="translate(-485.95957,-586.68956)" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path374"
+     d="m 268.65043,181.90044 c 0.07,-2.11 0.74,-3.41 1.81,-4 a 5.47,5.47 0 0 1 3.47,-0.14 c 1.17,0.24 2.34,0.62 3.6,0.88 a 28.28,28.28 0 0 0 9.12,0 c 1.25,-0.26 2.42,-0.64 3.6,-0.88 a 5.44,5.44 0 0 1 3.46,0.14 c 1.07,0.55 1.75,1.85 1.81,4"
+     class="cls-3" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path376"
+     d="m 301.04043,181.90044 -5.52,0 c -0.06,2.12 -0.74,3.42 -1.81,4"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line378"
+     y2="46.670422"
+     x2="131.61044"
+     y1="46.550426"
+     x1="46.580406"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line380"
+     y2="186.05043"
+     x2="273.67044"
+     y1="177.75044"
+     x1="273.67044"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line382"
+     y2="185.23042"
+     x2="277.04044"
+     y1="178.57045"
+     x1="277.04044"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line384"
+     y2="185.55043"
+     x2="288.39041"
+     y1="178.26045"
+     x1="288.39041"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line386"
+     y2="46.670422"
+     x2="227.99045"
+     y1="46.550426"
+     x1="313.03043"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line388"
+     y2="180.54042"
+     x2="296.31046"
+     y1="4.0504284"
+     x1="296.31046"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+     id="line390"
+     y2="496.04041"
+     x2="179.80045"
+     y1="439.34045"
+     x1="179.80045"
+     class="cls-3" />
+</svg>
