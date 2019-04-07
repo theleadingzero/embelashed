@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 93.810855 574.64375"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="button-switch.svg"
+   width="26.475506mm"
+   height="162.17723mm">
+  <metadata
+     id="metadata539">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>sensors_V7</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1507"
+     inkscape:window-height="877"
+     id="namedview537"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-283.87831"
+     inkscape:cy="264.50536"
+     inkscape:window-x="180"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4877"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     units="mm" />
+  <defs
+     id="defs4">
+    <style
+       id="style6">.cls-1,.cls-3,.cls-4,.cls-5{fill:none;stroke-linecap:round;stroke-linejoin:round;}.cls-1{stroke:red;}.cls-2{font-size:8.5px;fill:blue;font-family:Helvetica, Helvetica;}.cls-3{stroke:blue;}.cls-4,.cls-5{stroke:#000;}.cls-4{stroke-width:0.07px;}</style>
+  </defs>
+  <title
+     id="title8">sensors_V7</title>
+  <g
+     id="g4877"
+     transform="translate(3.5504285,-251.2496)">
+    <polyline
+       class="cls-1"
+       points="57.87 793.88 57.87 821.85 43.69 821.85 43.58 821.85"
+       id="polyline43"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-1"
+       points="29.52 793.88 1.18 793.88 1.16 255.3 0.5 255.3"
+       id="polyline51"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-1"
+       points="86.21 255.3 86.21 793.88 57.87 793.88"
+       id="polyline53"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-1"
+       x1="86.209999"
+       y1="255.3"
+       x2="1.16"
+       y2="255.3"
+       id="line55"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-1"
+       points="29.52 793.88 29.52 821.85 43.69 821.85 43.81 821.85"
+       id="polyline65"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="1.16"
+       y1="297.82001"
+       x2="86.209999"
+       y2="297.82001"
+       id="line196"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       class="cls-3"
+       d="m 68.67,430.49 c -0.06,2.12 -0.74,3.42 -1.81,4"
+       id="path198"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       class="cls-3"
+       d="m 41.8,430.49 c 0.07,-2.11 0.74,-3.41 1.81,-4 a 5.44,5.44 0 0 1 3.46,-0.14 c 1.18,0.24 2.35,0.62 3.61,0.88 a 18.49,18.49 0 0 0 4.56,0.37 18.45,18.45 0 0 0 4.55,-0.37 c 1.26,-0.26 2.43,-0.64 3.61,-0.88 a 5.44,5.44 0 0 1 3.46,0.14 c 1.07,0.55 1.75,1.85 1.81,4 l 5.56,0"
+       id="path200"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="61.540001"
+       y1="426.85001"
+       x2="61.540001"
+       y2="434.14001"
+       id="line202"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="50.189999"
+       y1="427.16"
+       x2="50.189999"
+       y2="433.82001"
+       id="line204"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="46.82"
+       y1="426.34"
+       x2="46.82"
+       y2="434.64001"
+       id="line206"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="41"
+       y1="434.75"
+       x2="32.580002"
+       y2="434.75"
+       id="line208"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-3"
+       points="32.58 434.75 32.58 370.37 32.41 255.3"
+       id="polyline210"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-3"
+       points="41 255.3 41 370.43 41 434.75"
+       id="polyline212"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-3"
+       points="10.46 255.3 10.46 439.66 10.46 521.49"
+       id="polyline214"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="19.01"
+       y1="521.48999"
+       x2="19.01"
+       y2="255.3"
+       id="line216"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="57.860001"
+       y1="453.54001"
+       x2="29.52"
+       y2="453.54001"
+       id="line218"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       class="cls-3"
+       points="10.46 567.11 1.18 567.11 1.17 567.11"
+       id="polyline220"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-3"
+       points="69.49 255.3 69.49 439.66 69.49 482.07 29.49 482.07 29.49 538.76 78.03 538.76 78.03 521.49 78.03 255.3"
+       id="polyline222"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <polyline
+       class="cls-3"
+       points="19.01 521.49 19.01 651.36 78.03 651.36 78.03 708.05 10.46 708.05 10.46 521.49"
+       id="polyline224"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="19.01"
+       y1="595.46002"
+       x2="86.209999"
+       y2="595.46002"
+       id="line226"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="86.209999"
+       y1="567.10999"
+       x2="19.01"
+       y2="567.10999"
+       id="line228"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="10.46"
+       y1="623.79999"
+       x2="1.17"
+       y2="623.79999"
+       id="line230"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="1.17"
+       y1="595.46002"
+       x2="10.46"
+       y2="595.46002"
+       id="line232"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="86.209999"
+       y1="765.53003"
+       x2="1.17"
+       y2="765.53003"
+       id="line234"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="1.17"
+       y1="737.19"
+       x2="86.209999"
+       y2="737.19"
+       id="line236"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       class="cls-3"
+       x1="86.209999"
+       y1="623.79999"
+       x2="19.01"
+       y2="623.79999"
+       id="line238"
+       style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+</svg>
