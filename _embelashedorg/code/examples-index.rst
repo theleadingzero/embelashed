@@ -32,37 +32,58 @@ Pd Basics on a Computer
 =======================
 These patches are to be run on a computer to introduce some basic functionality of Pd.
 
-`1_Playing an Audio File in PD <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/1_Playing%20an%20Audio%20File%20in%20PD>`_ - Try changing the wav file being played to another file within the ``samples`` folder that you downloaded.
+`1_Playing an Audio File in PD <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/01_Playing%20an%20Audio%20File%20in%20PD>`_ - Try changing the wav file being played to another file within the ``samples`` folder that you downloaded.
 
-`2_Playing an Audio File when Above a Threshold <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/2_Playing%20an%20Audio%20File%20when%20Above%20a%20Threshold>`_ - Move the slider above a threshold to trigger audio playback. Try to adjust threshold to a higher or lower value.
+`2_Playing an Audio File when Above a Threshold <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/02_Playing%20an%20Audio%20File%20when%20Above%20a%20Threshold>`_ - Move the slider above a threshold to trigger audio playback. Try to adjust threshold to a higher or lower value.
 
-`3_Add and control an Audio Effect <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/3_Add%20and%20Control%20an%20Audio%20Effect>`_ - Add an audio effect to the wav file as it is playing back. Try changing out the effects for one of the ones unconnected at the bottom of the patch.
+`3_Add and control an Audio Effect <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/03_Add%20and%20Control%20an%20Audio%20Effect>`_ - Add an audio effect to the wav file as it is playing back. Try changing out the effects for one of the ones unconnected at the bottom of the patch.
 
-`4_Playing Two Audio Samples and Controlling Audio Effects <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/4_Playing%20Two%20Audio%20Samples%20and%20Controlling%20Audio%20Effects>`_ - Playing and mixing two audio files at the same time. Try changing the audio files and effects.
+`4_Playing Two Audio Samples and Controlling Audio Effects <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/04_Playing%20Two%20Audio%20Samples%20and%20Controlling%20Audio%20Effects>`_ - Playing and mixing two audio files at the same time. Try changing the audio files and effects.
 
 
 Pd Basics on Bela
 =================
-`5_Use Belascope to View Interactions with Analogue Sensors <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/5_Use%20Belascope%20to%20View%20Interactions%20with%20Analogue%20Sensors>`_
+`5_Use Belascope to View Interactions with Analogue Sensors <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/05_Use%20Belascope%20to%20View%20Interactions%20with%20Analogue%20Sensors>`_
 
-`6_Playing Audio Files Based on Analogue Sensor <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/6_Playing%20Audio%20File%20Based%20on%20Analogue%20Sensor>`_
+`6_Playing Audio Files Based on Analogue Sensor <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/06_Playing%20Audio%20File%20Based%20on%20Analogue%20Sensor>`_
 
-`7_Control Audio Effect Based on Analogue Sensor <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/7_Control%20Audio%20Effect%20Based%20on%20Analogue%20Sensor>`_
+`7_Control Audio Effect Based on Analogue Sensor <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/07_Control%20Audio%20Effect%20Based%20on%20Analogue%20Sensor>`_
 
-`8_Multiple Files Effects <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/8_Multiple_Files_Effects>`_
+`8_Multiple Files Effects <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/08_Multiple_Files_Effects>`_
+
+
+
+Microphone Input
+================
+`9_Mic Test <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/09_Mic%20Test>`_
+
+`10_Live Sampler <https://github.com/theleadingzero/pure-data-bela-tutorials/blob/master/examples/10_Live%20Sampler>`_
+
+`14a_Samples Record <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/14a_Samples%20Record>`_
+
+`14b_Sample Scrub <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/14b_Sample%20Scrub>`_
+
 
 
 Audio Synthesis
 ===============
+`11_Karplus-Strong <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/11_Karplus-Strong>`_
 
-Microphone Input
-================
+`12_Rubber Duckie <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/12_Rubber%20Duckie>`_
+
+`13_FM-Synthesis <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/13_FM-synthesis>`_
 
 
 Advanced Sensors
 ================
+`17_Capacitive Sensing <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/17_Capacitive%20Sensing>`_
 
+`18_IMU Sensing <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/18_IMU%20Sensing>`_
 
 Communication
 =============
+`15_MIDI Send and Receive <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/15_MIDI%20Send%20and%20Receive>`_
 
+`16a_OSC Receive On <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/16a_OSC%20Receive%20On>`_
+
+`16b_OSC Send From <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/16b_OSC%20Send%20From>`_
