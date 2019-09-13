@@ -21,7 +21,7 @@ You will need
 =============
 
 * I2C Pocket Connector PCB
-* Grove horizontal DIP connector 
+* `Grove horizontal DIP connector <https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/>`_
 * Paper template
 * Strip of 0.25"/5mm copper tape  
 * Scotch/Sello tape 
