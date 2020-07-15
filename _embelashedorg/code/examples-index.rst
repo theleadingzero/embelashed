@@ -32,9 +32,21 @@ Pd Basics on a Computer
 =======================
 These patches are to be run on a computer to introduce some basic functionality of Pd.
 
-`1_Playing an Audio File in PD <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/01_Playing%20an%20Audio%20File%20in%20PD>`_ - Try changing the wav file being played to another file within the ``samples`` folder that you downloaded.
+`1_Playing an Audio File in PD <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/01_Playing%20an%20Audio%20File%20in%20PD>`_ 
 
-`2_Playing an Audio File when Above a Threshold <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/02_Playing%20an%20Audio%20File%20when%20Above%20a%20Threshold>`_ - Move the slider above a threshold to trigger audio playback. Try to adjust threshold to a higher or lower value.
+*Summary:* Plays a wav file. The volume and playback speed (pitch) can be controlled.
+
+*Inputs:* None, controlled using the mouse.
+
+*Challenge:* Change the wav file being played to another file within the ``samples`` folder that you downloaded.
+
+`2_Playing an Audio File when Above a Threshold <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/02_Playing%20an%20Audio%20File%20when%20Above%20a%20Threshold>`_ 
+
+*Summary:* Plays a wav file when the slider is above the threshold set in the message. Move the slider above a threshold to trigger audio playback.
+
+*Inputs:* None, controlled using the mouse. 
+
+*Challenge:*  Adjust threshold to a higher or lower value.
 
 `3_Add and control an Audio Effect <https://github.com/theleadingzero/pure-data-bela-tutorials/tree/master/examples/03_Add%20and%20Control%20an%20Audio%20Effect>`_ - Add an audio effect to the wav file as it is playing back. Try changing out the effects for one of the ones unconnected at the bottom of the patch.
 
