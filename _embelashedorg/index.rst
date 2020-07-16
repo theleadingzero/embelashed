@@ -20,10 +20,10 @@ This site contains documentation on how to use *embelashed*, a toolkit for proto
 
 .. toctree::
    :maxdepth: 2
-
-   code/abstractions-index
-   code/examples-index
-   paper/paper-index
+   
+   Pure Data abstractions to help simplify coding with Bela <code/abstractions-index>
+   Pure Data example patches to demonstrate how to use the abstracitons <code/examples-index>
+   Guides and resources on building working sensors with paper <paper/paper-index>
 
 
 
