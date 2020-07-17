@@ -37,7 +37,7 @@ extensions = [
 templates_path = ['_templates']
 
 # The master toctree document.
-master_doc = 'new_index'
+master_doc = 'index'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -51,6 +51,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+
+html_title = 'embelashed'
+# html_favicon
+# html_logo
+html_sidebars = {
+   '**': ['globaltoc.html'],
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

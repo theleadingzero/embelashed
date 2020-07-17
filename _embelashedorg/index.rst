@@ -17,13 +17,14 @@ How to Use This Site
 
 This site contains documentation on how to use *embelashed*, a toolkit for protopying interactive wearable systems that generate audio using paper circuitry and Pure Data code with the Bela Mini.
 
+It contains a collection of Pure Data abstractions to help simplify coding with Bela, Pure Data example patches to demonstrate how to use the abstractions, and guides and resources on building working sensors with paper.
 
 .. toctree::
    :maxdepth: 2
    
-   Pure Data abstractions to help simplify coding with Bela <code/abstractions-index>
-   Pure Data example patches to demonstrate how to use the abstracitons <code/examples-index>
-   Guides and resources on building working sensors with paper <paper/paper-index>
+   code/abstractions-index
+   code/examples-index
+   paper/paper-index
 
 
 
