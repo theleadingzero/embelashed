@@ -4,7 +4,9 @@ These are Pure Data abstractions - blocks of code meant to be used in a larger p
 
 All abstractions can be found in the `pure-data-bela-tutorials Github repository <https://github.com/theleadingzero/pure-data-bela-tutorials>`_, in the folder ``abstractions``.
 
-See the supporting examples to see some of the abstractions used in a larger Pure Data patch.
+Additional guidance on how to code using Pure Data on Bela is available in the `Bela documentation <https://learn.bela.io/using-bela/languages/pure-data/>`_.
+
+See the :doc:`examples-index` to see how the abstractions are used in a larger Pure Data patch.
 
 
 Installation
