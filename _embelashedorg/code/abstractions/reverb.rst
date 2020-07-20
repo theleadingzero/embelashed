@@ -3,9 +3,9 @@ Reverb Abstractions
 ###################
 This abstraction is an audio-rate reverb effect. This effect adds reverb to an audio signal.
 
-The abstraction has two versions, `A` and `B`. `A` is controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
+The abstraction has two versions, `ControlRate` and `AudioRate`. `ControlRate` abstractions are controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
 
-.. image:: ./imgs/reverb.png
+.. image:: ./imgs/reverb.svg
   :alt: Illustration of abstraction.
 
 Repository

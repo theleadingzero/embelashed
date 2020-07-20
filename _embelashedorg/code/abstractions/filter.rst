@@ -3,9 +3,9 @@ Filter Abstractions
 ###################
 These abstractions are audio-rate high pass filter effects. This effect will cut off the low frequencies in an audio signal and allow the higher frequencies to pass (hence high pass).
 
-The abstraction has two versions, `A` and `B`. `A` is controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
+The abstraction has two versions, `ControlRate` and `AudioRate`. `ControlRate` abstractions are controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
 
-.. image:: ./imgs/filter.png
+.. image:: ./imgs/filter.svg
   :alt: Illustration of abstraction.
 
 

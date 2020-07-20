@@ -3,9 +3,9 @@ Echo Abstractions
 #################
 These abstractions are audio-rate echo effects. Any audio signals that are passed through the abstraction will come out delayed by an amount that is controlled via the third inlet. The second inlet controls the dry/wet mix of the effect so controls the overall amount of echo that is applied to the signal.
 
-The abstraction has two versions, `A` and `B`. `A` is controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
+The abstraction has two versions, `ControlRate` and `AudioRate`. `ControlRate` abstractions are controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
 
-.. image:: ./imgs/echo.png
+.. image:: ./imgs/echo.svg
   :alt: Illustration of abstraction.
 
 

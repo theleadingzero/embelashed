@@ -3,9 +3,9 @@ Distortion Abstractions
 #######################
 These abstractions are audio-rate distortion effects. Any audio signals that are passed through the abstraction will come out distorted.
 
-The abstraction has two versions, `A` and `B`. `A` is controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
+The abstraction has two versions, `ControlRate` and `AudioRate`. `ControlRate` abstractions are controlled by a control rate signal (like a slider object) and `B` is controlled by an audio rate signal (like an analog input).
 
-.. image:: ./imgs/distortion.png
+.. image:: ./imgs/distortion.svg
   :alt: Illustration of abstraction.
 
 
