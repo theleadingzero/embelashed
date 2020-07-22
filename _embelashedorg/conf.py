@@ -53,7 +53,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'alabaster'
 
 html_title = 'embelashed'
-# html_favicon
+html_favicon = 'favicon.ico'
 # html_logo
 html_sidebars = {
    '**': ['globaltoc.html'],
