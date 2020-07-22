@@ -35,14 +35,14 @@ The *embelashed* project is led by Dr Becky Stewart in collaboration with `Augme
 
 Researchers that have contributed to this project include:
 
-* Adán Benito
-* Rachel Freire
-* Andrea Guidi
-* Jacob Harrison
-* Robert Jack
-* Andrew McPherson
-* Becca Rose Glowacki
-* Mei Zhang
+* `Adán Benito <https://github.com/adanlbenito>`_
+* `Rachel Freire <http://www.rachelfreire.com/>`_
+* `Andrea Guidi <http://www.mat.qmul.ac.uk/students/andrea-guidi/>`_
+* `Jacob Harrison <https://twitter.com/Jcb_H>`_
+* `Robert Jack <http://www.robertjack.org/>`_
+* `Andrew McPherson <http://andrewmcpherson.org/>`_
+* `Becca Rose Glowacki <https://www.beccarose.co.uk/>`_
+* `Mei Zhang <http://www.mat.qmul.ac.uk/students/meimei/>`_
 
 
 This project has received funding support from `InnovateUK Project 133535 <https://gtr.ukri.org/projects?ref=133535>`_.
